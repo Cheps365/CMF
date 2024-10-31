@@ -2,10 +2,11 @@
 
 Cheps' Mupen Fork is a free and open-source (Windows ONLY!) mupen64plus front-end/Rosalie's Mupen GUI FORK written in C++.
 
-# WARNING!
-This FORK is not intended for public use. I won't discourage you from compiling it if you want to but please don't.
-
 It offers a simple-to-use user interface.
+
+# WARNING!
+
+This FORK is not intended for public use. I won't discourage you from compiling it if you want to but please don't.
 
 ## Download
 
